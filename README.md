@@ -13,6 +13,6 @@ The proof of concept breaks down a file into bytes and then creates a loop to co
 
 There can be a slight delay between writing the data on the virtualised desktop and receiving it on the client side, there is also a limit on the number of bytes you send per change, so it's probably not going to let send or receive large data chunks.
 
-Reported to Citrix 18 Feb 2017.
-
 Credit: Mansour Al-Zayani (MZ) for implementing the idea and writing a large portion of the code.
+
+Reported to Citrix 18 Feb 2017.
